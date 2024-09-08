@@ -11,7 +11,7 @@ This project is an AI-powered voice assistant that interacts through spoken and 
 5. Chat History Management
 6. Customizable
 
-    ***Development Environment***
+***Development Environment***
 1. **IDE:** The project is developed using PyCharm, a popular integrated development environment for Python.
 2. **API Integration:** The Groq API is used to generate responses based on user queries.
 
